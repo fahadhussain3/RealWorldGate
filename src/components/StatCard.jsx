@@ -2,7 +2,7 @@ import React from 'react';
 import { WalletIcon, UsersIcon, DocumentIcon, CartIcon } from './Icons';
 
 const iconMap = {
-  'Total RWA Onchain': <WalletIcon />,
+  'Total RWG Onchain': <WalletIcon />,
   'Total Asset Holders': <UsersIcon />,
   'Total Asset Issuers': <DocumentIcon />,
   'Total Stablecoin Value': <WalletIcon />,
