@@ -12,7 +12,7 @@ export const tickerData = [
 
 // Mock data for the stat cards
 export const statsData = [
-  { title: 'Total RWA Onchain', value: '$24.36B', change: '+5.05%', note: 'from 30d ago' },
+  { title: 'Total RWG Onchain', value: '$24.36B', change: '+5.05%', note: 'from 30d ago' },
   { title: 'Total Asset Holders', value: '233,394', change: '+104.69%', note: 'from 30d ago' },
   { title: 'Total Asset Issuers', value: '196', change: '', note: '' },
   { title: 'Total Stablecoin Value', value: '$240.41B', change: '+2.08%', note: 'from 30d ago' },
